@@ -9,20 +9,20 @@ Tài liệu này hướng dẫn chi tiết từng cú click chuột để bạn 
 Bạn truy cập vào các đường link sau (nhớ đăng nhập tài khoản Microsoft sinh viên):
 
 1. **Module 1 (Azure SQL Database):**
-   * Link: https://learn.microsoft.com/vi-vn/training/modules/azure-sql-database-modern-application-development/
-   * *Cách làm:* Bấm học qua các bài, tới bài **Exercise** hãy khởi tạo database sandbox hoặc làm theo hướng dẫn -> Chụp ảnh màn hình lúc tạo xong DB hoặc lúc chạy câu lệnh query SQL.
+   * Link: https://learn.microsoft.com/en-us/training/modules/get-started-sql-database-application-development/
+   * *Nội dung:* Get started with Azure SQL Database for modern application development.
 
 2. **Module 2 (Host a web application with Azure App Service):**
-   * Link: https://learn.microsoft.com/vi-vn/training/modules/host-a-web-app-with-azure-app-service/
-   * *Cách làm:* Kích hoạt sandbox, làm theo bài thực hành để deploy web mẫu -> Chụp ảnh màn hình trang web chạy trên tên miền `.azurewebsites.net`.
+   * Link: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
+   * *Nội dung:* Host a web application with Azure App Service.
 
-3. **Module 3 (Monitor applications with Application Insights):**
-   * Link: https://learn.microsoft.com/vi-vn/training/modules/monitor-azure-application-insights/
-   * *Cách làm:* Làm theo bài hướng dẫn cấu hình Application Insights -> Chụp ảnh màn hình Dashboard Application Insights (Live Metrics hoặc Application Map).
+3. **Module 3 (Application Insights):**
+   * Link chính: https://learn.microsoft.com/en-us/training/modules/configure-monitoring-applications/
+   * Link bài thực hành OpenTelemetry & App Insights: https://learn.microsoft.com/en-us/training/modules/instrument-app-with-opentelemetry/
 
 4. **Module 4 (Deploy by using GitHub Actions):**
-   * Link: https://learn.microsoft.com/vi-vn/training/modules/build-and-deploy-applications-to-azure-by-using-github-actions/
-   * *Cách làm:* Thực hiện tạo workflow CI/CD -> Chụp ảnh màn hình tab Actions trên GitHub hiện tick xanh (Success).
+   * Link: https://learn.microsoft.com/en-us/training/modules/github-actions-cd/
+   * *Nội dung:* Build and deploy applications to Azure by using GitHub Actions.
 
 ---
 
